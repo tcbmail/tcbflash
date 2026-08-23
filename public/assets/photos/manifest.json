@@ -1,17 +1,12 @@
 {
-  "status": "awaiting-source-assets",
-  "note": "Documentary images are optional evidence. Do not substitute stock or generated imagery.",
+  "status": "available",
+  "note": "Documentary images are primary narrative evidence. Do not substitute stock or generated imagery.",
   "assets": [
-    { "file": "ben-computer-2008.webp", "alt": "Benjamin Hornung working at a computer", "caption": "January 2008" },
+    { "file": "ben-hero.webp", "alt": "Benjamin Hornung standing beside a red Mercedes in a parking garage", "caption": "Current" },
+    { "file": "ben-archive-grid.webp", "alt": "Six documentary photographs showing Benjamin Hornung at a computer, The Waverly sign, salvage and fulfillment work, and hands-on mechanical work", "caption": "Field notes, 2008—2024" },
+    { "file": "ben-computer-2008.webp", "alt": "Benjamin Hornung working at a desktop computer", "caption": "2008 — computers never really left" },
     { "file": "waverly-sign.webp", "alt": "The Waverly property sign", "caption": "The Waverly, Bay St. Louis, Mississippi" },
-    { "file": "waverly-exterior-1.webp", "alt": "Apartment-property exterior during Gulf Coast reconstruction work", "caption": "Reconstruction-era photograph, 2009" },
-    { "file": "waverly-exterior-2.webp", "alt": "Apartment-property exterior during Gulf Coast reconstruction work", "caption": "Reconstruction-era photograph, 2009" },
-    { "file": "katrina-rebuild-debris.webp", "alt": "Debris during Gulf Coast apartment reconstruction", "caption": "Gulf Coast rebuilding context, 2008" },
-    { "file": "ben-parts-shop-2018.webp", "alt": "Benjamin Hornung in an auto-parts workshop", "caption": "October 2018" },
-    { "file": "ben-forklift-shop.webp", "alt": "Benjamin Hornung around old industrial and automotive equipment", "caption": "" },
-    { "file": "junkyarder-shipping.webp", "alt": "Auto-parts shipping workspace", "caption": "Junkyarder operations" },
-    { "file": "ben-mechanic-1.webp", "alt": "Benjamin Hornung working on automotive equipment", "caption": "2024" },
-    { "file": "ben-mechanic-2.webp", "alt": "Benjamin Hornung working hands-on with mechanical equipment", "caption": "2024" },
-    { "file": "ben-mercedes.webp", "alt": "Benjamin Hornung standing beside a red Mercedes", "caption": "Recent portrait" }
+    { "file": "ben-salvage-2019.webp", "alt": "Benjamin Hornung beside salvage equipment", "caption": "2019 — salvage work" },
+    { "file": "ben-mechanic-2024.webp", "alt": "Benjamin Hornung working hands-on with mechanical equipment", "caption": "2024 — still happier with a system to understand" }
   ]
 }
