@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="BH monogram">
+  <rect width="64" height="64" fill="#1f211f"/>
+  <path fill="#f1eee6" d="M13 13h15c8 0 13 4 13 11 0 4-2 7-5 9 5 2 7 5 7 10 0 8-6 12-15 12H13V13Zm9 8v9h6c3 0 5-2 5-5 0-2-2-4-5-4h-6Zm0 17v9h7c4 0 6-1 6-4s-2-5-6-5h-7Z"/>
+  <path fill="#9b3f25" d="M44 13h7v42h-7z"/>
+</svg>
