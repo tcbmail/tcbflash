@@ -1,6 +1,6 @@
-.private/
-review/
-photos/
+/.private/
+/review/
+/photos/
 *.zip
 CODEX_*.md
 PHOTO_ASSET_NOTE.md
