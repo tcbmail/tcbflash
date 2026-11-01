@@ -8,13 +8,20 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "lint": "html-validate index.html",
-    "preview": "vite preview"
+    "generate:editorial": "node scripts/generate-editorial.mjs",
+    "build": "npm run generate:editorial && vite build",
+    "lint": "npm run generate:editorial && html-validate index.html story/index.html carmen/index.html vision/index.html hour/index.html press/index.html writing/index.html",
+    "preview": "vite preview",
+    "check:build": "node scripts/check-build.mjs",
+    "build:review": "npm run build",
+    "preview:review": "vite preview",
+    "preview:local": "powershell -NoProfile -File scripts/preview-local.ps1"
   },
-  "dependencies": {},
   "devDependencies": {
+    "@fontsource-variable/dm-sans": "^5.3.0",
+    "@fontsource-variable/newsreader": "^5.3.0",
     "html-validate": "^11.9.0",
+    "sharp": "^0.35.5",
     "vite": "^7.3.6"
   }
 }

@@ -1,0 +1,8 @@
+.private/
+review/
+photos/
+*.zip
+CODEX_*.md
+PHOTO_ASSET_NOTE.md
+REDESIGN_REVIEW.md
+README.md

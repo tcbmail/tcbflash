@@ -1,0 +1,5 @@
+# Preserve the supplied editorial Markdown bytes on Windows as well as Unix.
+content/*.md -text
+# Preserve the exact reviewed asset bytes across checkout platforms.
+favicon.svg -text
+public/assets/fonts/*-LICENSE.txt -text

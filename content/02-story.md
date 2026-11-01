@@ -1,0 +1,39 @@
+# How I got here
+
+My dad drove a truck and my mom worked in a lab. I grew up in Ames, Iowa, where my own occupational interests ran mostly to computers, although my early employers paid me to do other things. I detasseled corn, washed dishes at Bonanza, worked the garden center at Kmart and loaded freight. In my free time I read the great thick computer books you could get at Barnes & Noble. I liked the ones about networking. How did a machine on one desk find the one on somebody else’s desk? What could you get the two of them to do once they found each other? I could entertain myself for quite a while that way.
+
+Quite a few people let me learn on equipment I couldn’t have afforded. At Rave Studios, where I hung around as a young man, they had professional sound and video gear. I helped edit home movies, worked with audio, and made copies on VHS. In 1998, while I was studying in London, I worked for an early online retailer called e-buy.com. I tested its software and helped look after the Windows machines. A programmer there named David Wain had a remarkable willingness to sit and explain a thing he could have fixed faster himself. I remember his name all these years later partly because I know what it costs to give somebody that time.
+
+Back in Iowa, I got to be the network administrator at the Iowa Energy Center. At one location I helped take the place from running the cable to getting people set up at their desks. Keith Kutz, my boss, gave me the access I needed and room to figure things out. At that age I mostly thought I had a particularly good job. Having since been the person who had to decide whom to trust with a business, I have a better appreciation for what Keith was doing.
+
+## Liking computers and liking the computer business
+
+I came across Citrix at an Iowa State career fair. I already knew the software and liked the idea behind it: an older computer didn’t have to be particularly powerful if the work could happen on a bigger machine somewhere else. I ended up in Fort Lauderdale as a test engineer. When a fresh version of the software came out of engineering, part of my job was to install it and find out whether it worked well enough for everybody else to start their work. Later I worked with developers to measure how quickly the remote screen responded. I liked the people who could look at a result that didn’t make sense and get interested instead of getting defensive.
+
+There was another side of that job. Some days I’d be running through much the same tests by hand, on software that had barely changed. I was interested in moving into IT, where I thought the actual work might suit me better. A manager discouraged it because IT was considered a step down. That struck me as a peculiar way to decide how somebody ought to spend his working life. The people who seemed important and the people I wanted to learn from weren’t always the same people. It took me a while to trust my own opinion about which group I belonged with.
+
+When layoffs were coming, I let it be known I’d go. There were people I worked with who wanted to stay, some of whom had a lot more riding on their employment status than I did. I’d been intrigued by one of those late-night real estate infomercials, and I used part of my severance to buy a fixer-upper. It would make a good story if I’d promptly become a real estate success. What I actually needed while I waited for the place to sell was an income.
+
+A friend needed an online store for his computer business. I took the job and taught myself the database and web programming I needed to finish it. I’m glad I did. I learned SQL and ASP.NET, my friend got a working store, and I learned something useful about my ambitions: I wanted to be able to build software, but I didn’t particularly want to spend my life selling programming by the hour.
+
+## What lasted on the Gulf Coast
+
+Property work grew into a construction business. Through Silver Hammer Construction I worked on building, remodeling and running rental properties on the Gulf Coast. After Hurricane Katrina we helped rebuild The Waverly, a 128-unit apartment property in Bay St. Louis, Mississippi. There were a lot of people involved in putting that place back together. The decisions I was particularly interested in were the ones you get to make differently once you’ve had to maintain what somebody else built.
+
+Take the cabinet under a kitchen sink. You can buy a handsome one, install it perfectly, and still lose the bottom of it to a slow leak nobody spots until they reach in for something. Once you’ve dealt with that in a rental, you look at the cabinet, the counter and the plumbing as one decision. At The Waverly I wanted durable floors, cabinets that would hold up, and plumbing details that gave the next fellow doing maintenance a fighting chance. He didn’t necessarily need to know who’d made the choice. Ideally he’d never have a reason to think about it.
+
+I’ve been back to see The Waverly. It still looked good. The way I think about that project now is to take all those apartments and consider how many nights families have spent in them. People came home, cooked something, put their kids to bed and got up for work the next morning. None of those families needed to know which contractor chose the cabinets. They needed homes. After that storm somebody had to make those apartments fit to live in again, and I’m proud I got to be one of the people who did it.
+
+## Cars, mostly in pieces
+
+After years in construction I wanted a different kind of business. I tried selling used cars. A couple of lots didn’t work out, but I found there was a good business in selling individual parts online. A car that didn’t make much sense to fix could have exactly the piece somebody else needed to keep theirs running. The interesting commercial problem was how those two people were ever going to find each other.
+
+That became the work at Ten Motors and Junkyarder. The big salvage companies had inventory I was never going to match. I did know my way around a computer, and on eBay a buyer could find my part by its number without ever having heard of my yard. That got me a chance at the sale. I still had to photograph the actual piece, know which version the buyer needed, and ship the one in the picture. I enjoyed the odd combination of skills that rewarded. A little mechanical knowledge made the online business better. Knowing how people searched online changed what was worth taking off a car in the first place.
+
+## Why I came back
+
+When I started building with AI, I was surprised by how much I cared. I had been using computers the whole time. They ran the parts business. They just hadn’t kept me up for the pleasure of seeing what I could do with one in quite a few years. Now I could work through an idea in conversation and start building it without first assembling a team or talking somebody into financing the experiment.
+
+One of those ideas was a restaurant phone line. I wanted an owner to be able to say that the air conditioning had quit and they were closing at five, and have the phone line know what to tell the next caller. Another was Fishbrain, a project about memory. I was tired of spending an evening working out a decision with an AI and spending the next evening bringing it back up to speed. Those problems interested me enough to sit down and try to solve them. They also made me think harder about what I’d really like to be able to hand off in a business of my own.
+
+That’s where FlashForce comes in. I’d like to tell an AI employee what part of the business is theirs to look after and be able to go do something else. I know what that felt like when Keith trusted me with the network in Iowa. I also know how far a piece of software has to go before a manager would be wise to give it that kind of trust. I’m working on that last part now.

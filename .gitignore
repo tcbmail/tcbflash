@@ -12,6 +12,12 @@ dist
 dist-ssr
 *.local
 
+# Private handoffs and local review evidence never ship.
+.private/
+review/
+*.zip
+/photos/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

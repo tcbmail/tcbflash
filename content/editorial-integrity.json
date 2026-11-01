@@ -1,0 +1,21 @@
+{
+  "status": "Revision two editorial drafts for Ben review; publication not approved",
+  "sourcePacket": "TCBFlash-Editorial-Handoff-v2.zip",
+  "copy": {
+    "01-home.md": "28cc9e1b6a3c4d2b031f729d127b99ff6c223eb3185073ad3f57575caf1eb4ea",
+    "02-story.md": "79bd420be12489a07fb9737aa794e3aa3316600aa7bf547d7002fcfb9378e2f1",
+    "03-carmen.md": "a2027df585ac61254709933aaebb58f060789a0f9aa01118634505162c56d04a",
+    "04-vision.md": "9a9cc9f0788f3bf36cc33305bfebcb561887013d27b65f1f23adc1a0cf2c90ae",
+    "05-hour.md": "90fed527b933bb36ca450ad7e9c4966f7e5583c351965c8dbebda35e7114ac67",
+    "06-press.md": "79c69fa8a1df440db766af78e9adcf03a5a28e067ab6988ad44ad5d5625a23d6"
+  },
+  "retainedCopy": {
+    "story-chronology.md": "1973f290d65a64a5b60bc4f2d579fc7e058293009dd98c44c663436a6dd2ea9a"
+  },
+  "images": {
+    "fireplace.webp": "093cea95d7243ebb9dcf7dc1758000eb7b2ab1556827f89f80a0d1fbe0a51a1d",
+    "river.webp": "19e9705a4605902601a3d0426a16e747bd1b50f699bb721b02e59142f03b6c71",
+    "salvage.webp": "d3cf4ccef64d7ec364fcb7b9e923044efb897840bd9699c485bc3c204b022861",
+    "waverly.webp": "6a40cd731358126e7151c556528e523250c0553bdf28261d83fbe405b6e4c6c5"
+  }
+}
